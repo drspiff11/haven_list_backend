@@ -1,0 +1,64 @@
+{
+  "dailyItems": [
+    {
+      "id": 1,
+      "name": "Squash, Butternut",
+      "category": "Produce"
+    },
+
+    {
+      "id": 2,
+      "name": "Apples",
+      "category": "Produce"
+    },
+
+    {
+      "id": 3,
+      "name": "Kale",
+      "category": "Produce"
+    },
+
+    {
+      "id": 4,
+      "name": "Onions",
+      "category": "Produce"
+    },
+
+    {
+      "id": 5,
+      "name": "Potatoes",
+      "category": "Produce"
+    },
+
+    {
+      "id": 6,
+      "name": "Italian Bread",
+      "category": "Bread"
+    },
+
+    {
+      "id": 7,
+      "name": "Pepperjack Popcorn",
+      "category": "Extras"
+    },
+
+    {
+      "id": 7,
+      "name": "Dried Cherries",
+      "category": "USDA"
+    }
+
+  ],
+  "monthlyItems": [
+    {
+      "id": 1,
+      "name": "Canned Tuna",
+      "category": "Canned Meat"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti",
+      "category": "Pasta"
+    }
+  ]
+}
